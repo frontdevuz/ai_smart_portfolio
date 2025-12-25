@@ -1,3 +1,4 @@
 body{
-    background: rgb(120, 220, 120);
+    background: linear-gradient( rgb(154, 230, 154), orange );
+    height:100vh
 }
